@@ -1,82 +1,62 @@
-<div align="center">
-  <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="150" />
+<div align="center" width="50%">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+
+<details>
+<summary>🎧 Busy coding & vibing to</summary>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nora-tamer&style=flat&color=orange)
+
 </div>
 
-# Welcome to My GitHub Profile 👋  
-## I'm Noura Tamer 👩‍💻
+<hr/>
 
-<br/>
+### 🛠️ Tools & Tech I Use
 
-<div align="center">
-  <img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" />
-</div>
-
----
-
-### 👩‍🎓 About Me  
-- 🎓 Computer Science Student  
-- 💻 Studying **Backend Development with Node.js**  
-- 🌐 I know: **HTML, CSS, JavaScript**  
-- 🚀 Interested in: **Web Development & Backend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-</div>
-
----
-
-### 🔭 Currently Working On
-- Building backend APIs using **Node.js & Express**
-- Small projects for practice & bootcamp tasks
-
----
-
-### 🌱 Currently Learning
+### 👩‍💻 Currently Learning
 - REST APIs  
-- MongoDB  
-- Authentication (JWT)  
-- Clean Code & Project Structure  
+- JWT Authentication  
+- MongoDB & Mongoose  
+- Clean Project Structure  
 
 ---
 
-### 👯 Looking to Collaborate On
-- Beginner-friendly backend projects  
-- Small web applications  
-- Practice projects with students like me  
+### 📚 Fun Facts & Interests
+- 🐧 Love exploring **GNU/Linux**  
+- 🎵 Music keeps me coding  
+- 💡 Ask me about **Backend development & Web Projects**  
 
 ---
 
-### 💬 Ask Me About
-- JavaScript  
-- Node.js basics  
-- Backend roadmaps  
-- How to start in web development  
-
----
-
-### 📫 How to Reach Me
-- 📧 Email:nt5661203@gmail.com
-- 💼 LinkedIn:https://www.linkedin.com/in/nora-tamer-202176343
+### 📫 Contact Me
+- 📧 Email: nt5661203@gmail.com  
+- 💼 LinkedIn: [Nora Tamer](https://www.linkedin.com/in/nora-tamer-202176343)  
 
 ---
 
 <div align="center">
-  <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" width="300" />
+<a href="https://github.com/nora-tamer">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+</a>
 </div>
 
----
-
-### ⚡ Fun Fact  
-> I believe consistency beats motivation 💪  
-> Step by step, I’m building my backend skills 🚀
+<details>
+  <summary>More GitHub Stats</summary>
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+</details>
