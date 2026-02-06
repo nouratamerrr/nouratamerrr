@@ -1,68 +1,82 @@
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="150" />
 </div>
 
-# Welcome To My GitHub Profile !
-
-<br/>
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar Typer" />
-</div>
-<br/>
-
-<!--
-- ⌨️ Programming Languages I've used:
-
-<div align="center">
- <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/git.svg' width='30'/>
-</div>
-<-->
+# Welcome to My GitHub Profile 👋  
+## I'm Noura Tamer 👩‍💻
 
 <br/>
 
-- 🙌 I'm currently open to: **Software Development Engineer in Test (SDET, Automation, CI/CD) roles**
-
-<br/><br/>
-
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
-</div>
-<br/>
-
-- 🔭 I’m currently working on: **Java | Python | Selenium | TestNG | Maven | Rest Assured | TeamCity**
-
-- 🌱 I’m currently learning: **Automation | SQL | Java | Python | AWS | Playwright**
-
-
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" />
 </div>
 
-- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
+---
 
-- 💬 Ask me about: **Science & Technology | Technical Content Writing | Music | Reading | History**
+### 👩‍🎓 About Me  
+- 🎓 Computer Science Student  
+- 💻 Studying **Backend Development with Node.js**  
+- 🌐 I know: **HTML, CSS, JavaScript**  
+- 🚀 Interested in: **Web Development & Backend**
 
-- 🤓 Active User at: **GitHub | LinkedIn**
+---
 
-- 📫 How to reach me:
+### 🛠️ Tech Stack
 
-    * [**Drop a Mail**](mailto:raghavkhullar16@gmail.com)
-
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/raghav-khullar/)
-
-    * [**Visit my Website**](https://raghavk16.github.io/)
-    
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 </div>
 
-- 😄 Pronouns: **He/Him**
+---
 
-- ⚡ Fun Facts: 
+### 🔭 Currently Working On
+- Building backend APIs using **Node.js & Express**
+- Small projects for practice & bootcamp tasks
 
-    * *Besides programming, I've been a [**Technical Content Writer**](https://www.mindbrews.in/author/raghav-khullar/). I'm a **Melophile** for life and love to cook for my friends and family when I'm free.*
+---
 
-    * *You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.*
-    
-    * *If you're still reading, why not follow me ?? Let's Connect !!*
+### 🌱 Currently Learning
+- REST APIs  
+- MongoDB  
+- Authentication (JWT)  
+- Clean Code & Project Structure  
+
+---
+
+### 👯 Looking to Collaborate On
+- Beginner-friendly backend projects  
+- Small web applications  
+- Practice projects with students like me  
+
+---
+
+### 💬 Ask Me About
+- JavaScript  
+- Node.js basics  
+- Backend roadmaps  
+- How to start in web development  
+
+---
+
+### 📫 How to Reach Me
+- 📧 Email:nt5661203@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/in/nora-tamer-202176343
+
+---
+
+<div align="center">
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" width="300" />
+</div>
+
+---
+
+### ⚡ Fun Fact  
+> I believe consistency beats motivation 💪  
+> Step by step, I’m building my backend skills 🚀
