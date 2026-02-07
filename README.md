@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- الصورة الشخصية -->
+<img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/>
 
 <h1>Hi, I’m Nora 👋</h1>
 <p>Backend Developer | Web Enthusiast | Computer Science Student</p>
