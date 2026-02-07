@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- الصورة الشخصية -->
-<img src="PUT_YOUR_IMAGE_URL_HERE" alt="Nora Tamer" width="150" style="border-radius:50%;"/>
 
 <h1>Hi, I’m Nora 👋</h1>
 <p>Backend Developer | Web Enthusiast | Computer Science Student</p>
